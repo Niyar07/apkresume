@@ -1,4 +1,4 @@
-# Personal Portfolio App - Flutter  
+# Personal Resume (Portfolio) App - Flutter  
 
 ## 📌 Overview  
 This is a simple **Personal Portfolio App** built using **Flutter** as a practice project. The primary focus of this project is to understand **UI design, layout structuring, and Flutter widgets** rather than implementing navigation or backend functionality.  
